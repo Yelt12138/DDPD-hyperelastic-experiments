@@ -34,7 +34,11 @@ The repository includes three Excel files:
 
 ## Citation
 
-Please cite the associated paper (information to be updated after publication) if you use these datasets.
+If you use these datasets, please cite our SSRN preprint:
+Luotang Ye, Junwen Chen, YanMao Chen, Jike Liu, & Qixian Liu (2025).
+A Novel Peridynamics Framework Integrating Data-Driven Constitutive Relation: Simulating Large Deformation and Asymmetric Damage in Heterogeneous Hyperelastic Materials.
+SSRN. https://doi.org/10.2139/ssrn.5944143
+(We will update this entry with the final published version after acceptance.)
 
 ---
 
